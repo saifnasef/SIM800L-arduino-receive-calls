@@ -6,7 +6,7 @@ String bullshit;
 int led = 5;
 String number;
 bool isallowed = false;
-String allowed[] = {"01147407649", "01143299025", "01114878581", "01550700517"};
+String allowed[] = {};
 int len = sizeof(allowed)/sizeof(String);
 
 String temp;
